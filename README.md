@@ -3,6 +3,11 @@
 Project Description:
 Title: Analyzing Healthcare Data in Tableau: Optimizing Hospital Operations
 
+![image](https://github.com/Twinkle-Rakesh-Jain/HealthcareDataAnalysis/assets/159181933/c966be5a-a507-485f-b311-d3bfc7e5222d)
+
+
+
+
 In this case study, we delved into the realm of healthcare data analysis to enhance the efficiency of hospital operations. Our primary objective was to gain insights into effective hip replacement surgeries across the state of New York by conducting comprehensive exploratory analysis on patient-level data spanning a single year.
 
 To achieve this, we employed Tableau to conduct initial exploratory analysis on patient-level data from various hospitals. By utilizing complex calculated fields with fixed Level of Detail (LOD) expressions, we compared the average length of stay (LOS) and discharge costs across different hospitals. This allowed us to address critical business questions, such as identifying hospitals with the highest average cost and length of stay relative to the state average, pinpointing outliers, and determining the key factors influencing LOS and costs.
