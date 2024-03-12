@@ -1,9 +1,9 @@
 # Healthcare Data Analysis
 
-Project Description:
+### Project Description:
 
 
-Title: Analyzing Healthcare Data in Tableau: Optimizing Hospital Operations
+## Title: Analyzing Healthcare Data in Tableau: Optimizing Hospital Operations
 
 ![image](https://github.com/Twinkle-Rakesh-Jain/HealthcareDataAnalysis/assets/159181933/c966be5a-a507-485f-b311-d3bfc7e5222d)
 
@@ -16,10 +16,10 @@ To achieve this, we employed Tableau to conduct initial exploratory analysis on 
 
 Through scatter plot correlation analysis, we uncovered that neither the costs nor LOS per patient were heavily influenced by the number of surgeons per patient. In our quest for understanding other influential factors, we explored variables such as severity of illness, patient disposition, and diagnosis descriptions. Our analysis revealed that average LOS and costs tend to be higher under the following conditions:
 
-1) Extreme illness severity
-2) Diagnoses linked to bone cancer
-3) Patient disposition requiring specialized care
-4) Hospitals located in New York City
+### 1) Extreme illness severity
+### 2) Diagnoses linked to bone cancer
+### 3) Patient disposition requiring specialized care
+### 4) Hospitals located in New York City
    
 To effectively communicate our findings, we developed dynamic and interactive dashboards dedicated to LOS and cost analysis. These dashboards feature key performance indicators (KPIs) such as average length of stay, number of discharges, number of hospitals, and average cost per discharge. By leveraging visualization and interactivity, our dashboards provide stakeholders with actionable insights to optimize hospital operations and enhance patient care outcomes.
 
